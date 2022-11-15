@@ -1,0 +1,21 @@
+#id1{
+	font-size: 36px;
+	color: blue;
+
+}
+#id2{
+	font-weight: bold;
+	font-size: 24px;
+	background-color: green;
+}
+
+.fonts{
+	font-family:'Verdana','DejaVu Sans',sans-serif;
+	background-color: pink;
+}
+
+.no2{
+	font-size: 36px;
+}
+
+
